@@ -1,6 +1,6 @@
 # Anisha Sharon — Portfolio
 
-React + Vite + Tailwind CSS portfolio, converted from a Stitch AI export.
+React + Vite + Tailwind CSS portfolio.
 
 ## Run locally
 
