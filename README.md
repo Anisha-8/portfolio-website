@@ -41,3 +41,22 @@ npm run dev
 ```
 
 ## Project structure
+src/
+├── components/ # one component per page section
+├── content.js # all site text/data — edit here to reuse this template
+├── App.jsx
+└── main.jsx
+
+
+## Using this as a template
+
+Feel free to fork or clone this for your own portfolio — all the content lives
+in `src/content.js`, so you can swap in your own info without touching the
+component code. If you use it, a credit/link back is appreciated but not required.
+
+## Contact
+
+📧 anishasharon00@gmail.com · [LinkedIn](https://www.linkedin.com/in/anisha-sharon-9a79b4211/) · [GitHub](https://github.com/Anisha-8)
+
+---
+© 2026 Anisha Sharon
