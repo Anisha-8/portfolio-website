@@ -58,7 +58,7 @@ component code. If you use it, a credit/link back is appreciated but not require
 
 ## Contact
 
-📧 anishasharon00@gmail.com · [LinkedIn](https://www.linkedin.com/in/anisha-sharon-9a79b4211/) · [GitHub](https://github.com/Anisha-8)
+anishasharon00@gmail.com · [LinkedIn](https://www.linkedin.com/in/anisha-sharon-9a79b4211/) · [GitHub](https://github.com/Anisha-8)
 
 ---
 © 2026 Anisha Sharon
