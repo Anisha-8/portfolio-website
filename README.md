@@ -41,11 +41,13 @@ npm run dev
 ```
 
 ## Project structure
+```
 src/
-├── components/ # one component per page section
-├── content.js # all site text/data — edit here to reuse this template
+├── components/     # one component per page section
+├── content.js      # all site text/data — edit here to reuse this template
 ├── App.jsx
 └── main.jsx
+```
 
 
 ## Using this as a template
