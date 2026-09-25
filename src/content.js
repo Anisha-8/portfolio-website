@@ -6,7 +6,7 @@ export const profile = {
   name: 'Anisha Sharon',
   email: 'anishasharon00@gmail.com',
   location: 'Karnataka, India',
-  resumeUrl:'/Anisha_Sharon_CV.pdf',
+    resumeUrl: '/Anisha_Sharon_CV.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/anisha-sharon-9a79b4211/',
     github: 'https://github.com/Anisha-8',
