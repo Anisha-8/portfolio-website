@@ -12,8 +12,7 @@ A fully responsive personal portfolio showcasing my experience as a Full Stack
 Developer — covering my work history, technical skills, featured projects,
 AI/ML experiments, published research, and a working contact form.
 
-Originally designed visually in [Stitch AI](https://stitch.withgoogle.com),
-then hand-converted into a production React codebase.
+Designed with a modern, Gen-Z-forward UI/UX approach using AI-assisted design tooling (Stitch AI) for rapid visual prototyping, then hand-converted and engineered into a production-ready React codebase.
 
 ## Screenshots
 
